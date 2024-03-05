@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAKE ME OSM</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div>
+
+        <div class="div1">
+            <h1>Come join us!</h1>
+            <p>We are so excited to have you here. If you havn't already, create
+                an account to get access to exclusive offers, rewards and discounts</p>
+                <button>already have an account? Signin</button>
+        </div>
+
+        <div class="div2">
+            <form>
+                 <input type="Name" placeholder="Name" required>
+                   <input type="Email" placeholder="Email" required>
+                   <input type="Create Password" placeholder="Create Password" required>
+                   <input type="Confirm Password" placeholder="Confirm Password" required>
+                   <button>SUBMIT</button>
+             </form>
+        </div>
+
+    </div>
+</body>
+</html>
